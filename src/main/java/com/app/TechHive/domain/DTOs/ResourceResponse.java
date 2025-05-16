@@ -14,8 +14,8 @@ import java.util.List;
 public class ResourceResponse {
     private List<Resource> paidCourses;
     private List<Resource> freeCourses;
-    private Resource officialSite;
-    private Resource officialDocs;
+    private List<Resource> officialSite;
+    private List<Resource> officialDocs;
     private List<Resource> contentCreators;
     private List<Resource> techBlogs;
 
