@@ -1,6 +1,5 @@
 package com.app.TechHive.domain.DTOs;
 
-import com.app.TechHive.domain.utilsDTO.Models;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
